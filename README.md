@@ -2,6 +2,8 @@
 
 Bingwa Sokoni Data is an open-source React Native app built with Expo that allows users to purchase Bingwa Sokoni (data, minutes, SMS) through a clean, modern interface. It features a custom purchase UI with modals, transaction history, dark mode, and a custom bottom tab navigator with icons.
 
+## Click on the thumbnail to Watch the Demo of the app video
+
 [![Watch the Demo of the app video](https://img.youtube.com/vi/jUraYmkniFo/0.jpg)](https://www.youtube.com/watch?v=jUraYmkniFo)
 
 <img src="assets/images/icon.png" alt="App Icon" width="200" height="200"/>
