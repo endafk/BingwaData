@@ -44,8 +44,8 @@ This command will move the starter code to the app-example directory and create 
 Clone the Repository:
 
 ```bash
-git clone https://github.com/endafk/bingwa-data.git
-cd bingwa-data
+git clone https://github.com/endafk/BingwaData
+cd BingwaData
 ```
 ##Install Dependencies:
 
