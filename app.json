@@ -9,14 +9,18 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.xdbingwa.bingwadata"
+      "package": "com.xdbingwa.bingwadata",
+      "runtimeVersion": "1.0.0"
     },
     "web": {
       "output": "static"
@@ -39,11 +43,7 @@
     "extra": {
       "router": {
         "origin": false
-      },
-      "eas": {
-        "projectId": "YOUR_PROJECT_ID"
       }
-    },
-    "owner": "endafk"
+    }
   }
 }
