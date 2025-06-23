@@ -170,6 +170,14 @@ Contributions are welcome! Please follow these steps:
    - Create a new branch for your feature or bugfix.
    - Commit your changes and push your branch.
    - Open a Pull Request with a detailed description of your changes.
+
+
+## ToDo:
+The Project is still on development:
+    - Integrate it to daraja api
+    - Reduce final app size(React Native Lore)
+    - Script it
+
 ## Learn More
 To learn more about developing your project with Expo and React Native, check out these resources:
 
